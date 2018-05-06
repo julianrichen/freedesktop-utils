@@ -1,0 +1,622 @@
+{
+    "AudioVideo": {
+        "description": "Application for presenting, creating, or processing multimedia (audio/video)",
+        "categories": {
+            "Audio": {
+                "description": "An audio application",
+                "categories": {
+                    "AudioVideoEditing": {
+                        "description": "Application to edit audio/video files"
+                    },
+                    "Player": {
+                        "description": "Application to play audio/video files"
+                    },
+                    "Recorder": {
+                        "description": "Application to record audio/video files"
+                    },
+                    "HamRadio": {
+                        "description": "HAM radio software"
+                    },
+                    "Midi": {
+                        "description": "An app related to MIDI"
+                    },
+                    "Mixer": {
+                        "description": "Just a mixer"
+                    },
+                    "Sequencer": {
+                        "description": "A sequencer"
+                    },
+                    "Tuner": {
+                        "description": "A tuner"
+                    }
+                }
+            },
+            "Video": {
+                "description": "A video application",
+                "categories": {
+                    "AudioVideoEditing": {
+                        "description": "Application to edit audio/video files"
+                    },
+                    "Player": {
+                        "description": "Application to play audio/video files"
+                    },
+                    "Recorder": {
+                        "description": "Application to record audio/video files"
+                    },
+                    "TV": {
+                        "description": "A TV application"
+                    }
+                }
+            },
+            "AudioVideoEditing": {
+                "description": "Application to edit audio/video files"
+            },
+            "Database": {
+                "description": "Application to manage a database"
+            },
+            "DiscBurning": {
+                "description": "Application to burn a disc"
+            },
+            "Player": {
+                "description": "Application to play audio/video files"
+            },
+            "Recorder": {
+                "description": "Application to record audio/video files"
+            },
+            "Music": {
+                "description": "Musical software"
+            }
+        }
+    },
+    "Development": {
+        "description": "An application for development",
+        "categories": {
+            "Building": {
+                "description": "A tool to build applications"
+            },
+            "Database": {
+                "description": "Application to manage a database"
+            },
+            "Debugger": {
+                "description": "A tool to debug applications"
+            },
+            "IDE": {
+                "description": "IDE application"
+            },
+            "GUIDesigner": {
+                "description": "A GUI designer application"
+            },
+            "Profiling": {
+                "description": "A profiling tool"
+            },
+            "ProjectManagement": {
+                "description": "Project management application"
+            },
+            "RevisionControl": {
+                "description": "Applications like cvs or subversion"
+            },
+            "Translation": {
+                "description": "A translation tool"
+            },
+            "WebDevelopment": {
+                "description": "A tool for web developers"
+            }
+        }
+    },
+    "Education": {
+        "description": "Educational software",
+        "categories": {
+            "Art": {
+                "description": "Software to teach arts"
+            },
+            "Construction": {
+                "description": " "
+            },
+            "Music": {
+                "description": "Musical software"
+            },
+            "Languages": {
+                "description": "Software to learn foreign languages"
+            },
+            "ArtificialIntelligence": {
+                "description": "Artificial Intelligence software"
+            },
+            "Astronomy": {
+                "description": "Astronomy software"
+            },
+            "Biology": {
+                "description": "Biology software"
+            },
+            "Chemistry": {
+                "description": "Chemistry software"
+            },
+            "ComputerScience": {
+                "description": "ComputerSience software",
+                "categories": {
+                    "ParallelComputing": {
+                        "description": "Parallel computing software"
+                    }
+                }
+            },
+            "DataVisualization": {
+                "description": "Data visualization software"
+            },
+            "Economy": {
+                "description": "Economy software"
+            },
+            "Electricity": {
+                "description": "Electricity software"
+            },
+            "Geography": {
+                "description": "Geography software"
+            },
+            "Geology": {
+                "description": "Geology software"
+            },
+            "Geoscience": {
+                "description": "Geoscience software, GIS"
+            },
+            "History": {
+                "description": "History software"
+            },
+            "Humanities": {
+                "description": "Software for philosophy, psychology and other humanities"
+            },
+            "ImageProcessing": {
+                "description": "Image Processing software"
+            },
+            "Literature": {
+                "description": "Literature software"
+            },
+            "Maps": {
+                "description": "Sofware for viewing maps, navigation, mapping, GPS"
+            },
+            "Math": {
+                "description": "Math software",
+                "categories": {
+                    "NumericalAnalysis": {
+                        "description": "Numerical analysis software"
+                    }
+                }
+            },
+            "MedicalSoftware": {
+                "description": "Medical software"
+            },
+            "Physics": {
+                "description": "Physics software"
+            },
+            "Robotics": {
+                "description": "Robotics software"
+            },
+            "Spirituality": {
+                "description": "Religious and spiritual software, theology"
+            },
+            "Sports": {
+                "description": "Sports software"
+            }
+        }
+    },
+    "Game": {
+        "description": "A Game",
+        "categories": {
+            "ActionGame": {
+                "description": "An action game"
+            },
+            "AdventureGame": {
+                "description": "Adventure style game"
+            },
+            "ArcadeGame": {
+                "description": "Arcade style game"
+            },
+            "BoardGame": {
+                "description": "A board game"
+            },
+            "BlocksGame": {
+                "description": "Falling blocks game"
+            },
+            "CardGame": {
+                "description": "A card game"
+            },
+            "KidsGame": {
+                "description": "A game for kids"
+            },
+            "LogicGame": {
+                "description": "Logic games like puzzles, etc"
+            },
+            "RolePlaying": {
+                "description": "A role playing game"
+            },
+            "Shooter": {
+                "description": "A shooter game"
+            },
+            "Simulation": {
+                "description": "A simulation game"
+            },
+            "SportsGame": {
+                "description": "A sports game"
+            },
+            "StrategyGame": {
+                "description": "A strategy game"
+            },
+            "Emulator": {
+                "description": "Emulator of another platform, such as a DOS emulator"
+            }
+        }
+    },
+    "Graphics": {
+        "description": "Application for viewing, creating, or processing graphics",
+        "categories": {
+            "2DGraphics": {
+                "description": "2D based graphical application",
+                "categories": {
+                    "VectorGraphics": {
+                        "description": "Application for viewing, creating, or processing vector graphics"
+                    },
+                    "RasterGraphics": {
+                        "description": "Application for viewing, creating, or processing raster (bitmap) graphics"
+                    }
+                }
+            },
+            "3DGraphics": {
+                "description": "Application for viewing, creating, or processing 3-D graphics"
+            },
+            "Scanning": {
+                "description": "Tool to scan a file/text",
+                "categories": {
+                    "OCR": {
+                        "description": "Optical character recognition application"
+                    }
+            }
+            },
+            "Photography": {
+                "description": "Camera tools, etc."
+            },
+            "Publishing": {
+                "description": "Desktop Publishing applications and Color Management tools"
+            },
+            "Viewer": {
+                "description": "Tool to view e.g. a graphic or pdf file"
+            }
+        }
+    },
+    "Network": {
+        "description": "Network application such as a web browser",
+        "categories": {
+            "Dialup": {
+                "description": "A dial-up program"
+            },
+            "Email": {
+                "description": "Email application"
+            },
+            "InstantMessaging": {
+                "description": "An instant messaging client"
+            },
+            "Chat": {
+                "description": "A chat client"
+            },
+            "IRCClient": {
+                "description": "An IRC client"
+            },
+            "Feed": {
+                "description": "RSS, podcast and other subscription based contents"
+            },
+            "FileTransfer": {
+                "description": "Tools like FTP or P2P programs"
+            },
+            "HamRadio": {
+                "description": "HAM radio software"
+            },
+            "News": {
+                "description": "A news reader or a news ticker"
+            },
+            "P2P": {
+                "description": "A P2P program"
+            },
+            "RemoteAccess": {
+                "description": "A tool to remotely manage your PC"
+            },
+            "Telephony": {
+                "description": "Telephony via PC"
+            },
+            "VideoConference": {
+                "description": "Video Conference software"
+            },
+            "WebBrowser": {
+                "description": "A web browser"
+            },
+            "WebDevelopment": {
+                "description": "A tool for web developers"
+            },
+            "Monitor": {
+                "description": "Monitor application/applet that monitors some resource or activity"
+            }
+        }
+    },
+    "Office": {
+        "description": "An office type application",
+        "categories": {
+            "Calendar": {
+                "description": "Calendar application"
+            },
+            "ContactManagement": {
+                "description": "E.g. an address book"
+            },
+            "Database": {
+                "description": "Application to manage a database"
+            },
+            "Dictionary": {
+                "description": "A dictionary"
+            },
+            "Chart": {
+                "description": "Chart application"
+            },
+            "Email": {
+                "description": "Email application"
+            },
+            "Finance": {
+                "description": "Application to manage your finance"
+            },
+            "FlowChart": {
+                "description": "A flowchart application"
+            },
+            "PDA": {
+                "description": "Tool to manage your PDA"
+            },
+            "Photography": {
+                "description": "Camera tools, etc."
+            },
+            "Publishing": {
+                "description": "Desktop Publishing applications and Color Management tools"
+            },
+            "ProjectManagement": {
+                "description": "Project management application"
+            },
+            "Presentation": {
+                "description": "Presentation software"
+            },
+            "Spreadsheet": {
+                "description": "A spreadsheet"
+            },
+            "Viewer": {
+                "description": "Tool to view e.g. a graphic or pdf file"
+            },
+            "WordProcessor": {
+                "description": "A word processor"
+            }
+        }
+    },
+    "Science": {
+        "description": "Scientific software",
+        "categories": {
+            "Art": {
+                "description": "Software to teach arts"
+            },
+            "Construction": {
+                "description": " "
+            },
+            "Languages": {
+                "description": "Software to learn foreign languages"
+            },
+            "ArtificialIntelligence": {
+                "description": "Artificial Intelligence software"
+            },
+            "Astronomy": {
+                "description": "Astronomy software"
+            },
+            "Biology": {
+                "description": "Biology software"
+            },
+            "Chemistry": {
+                "description": "Chemistry software"
+            },
+            "ComputerScience": {
+                "description": "ComputerSience software",
+                "categories": {
+                    "ParallelComputing": {
+                        "description": "Parallel computing software"
+                    }
+                }
+            },
+            "DataVisualization": {
+                "description": "Data visualization software"
+            },
+            "Economy": {
+                "description": "Economy software"
+            },
+            "Electricity": {
+                "description": "Electricity software"
+            },
+            "Geography": {
+                "description": "Geography software"
+            },
+            "Geology": {
+                "description": "Geology software"
+            },
+            "Geoscience": {
+                "description": "Geoscience software, GIS"
+            },
+            "History": {
+                "description": "History software"
+            },
+            "Humanities": {
+                "description": "Software for philosophy, psychology and other humanities"
+            },
+            "ImageProcessing": {
+                "description": "Image Processing software"
+            },
+            "Literature": {
+                "description": "Literature software"
+            },
+            "Maps": {
+                "description": "Sofware for viewing maps, navigation, mapping, GPS"
+            },
+            "Math": {
+                "description": "Math software",
+                "categories": {
+                    "NumericalAnalysis": {
+                        "description": "Numerical analysis software"
+                    }
+                }
+            },
+            "MedicalSoftware": {
+                "description": "Medical software"
+            },
+            "Physics": {
+                "description": "Physics software"
+            },
+            "Robotics": {
+                "description": "Robotics software"
+            },
+            "Spirituality": {
+                "description": "Religious and spiritual software, theology"
+            },
+            "Sports": {
+                "description": "Sports software"
+            }
+        }
+    },
+    "Settings": {
+        "description": "Settings applications",
+        "categories": {
+            "DesktopSettings": {
+                "description": "Configuration tool for the GUI"
+            },
+            "HardwareSettings": {
+                "description": "A tool to manage hardware components, like sound cards, video cards or printers",
+                "categories": {
+                    "Printing": {
+                        "description": "A tool to manage printers"
+                    }
+                }
+            },
+            "PackageManager": {
+                "description": "A package manager application"
+            },
+            "Security": {
+                "description": "A security tool"
+            },
+            "Accessibility": {
+                "description": "Accessibility"
+            }
+        }
+    },
+    "System": {
+        "description": "System application, \"System Tools\" such as say a log viewer or network monitor",
+        "categories": {
+            "Emulator": {
+                "description": "Emulator of another platform, such as a DOS emulator"
+            },
+            "FileTools": {
+                "description": "A file tool utility",
+                "categories": {
+                    "FileManager": {
+                        "description": "A file manager"
+                    }
+                }
+            },
+            "TerminalEmulator": {
+                "description": "A terminal emulator application"
+            },
+            "Filesystem": {
+                "description": "A file system tool"
+            },
+            "Monitor": {
+                "description": "Monitor application/applet that monitors some resource or activity"
+            },
+            "Security": {
+                "description": "A security tool"
+            }
+        }
+    },
+    "Utility": {
+        "description": "Small utility application, \"Accessories\"",
+        "categories": {
+            "TextTools": {
+                "description": "A text tool utility",
+                "categories": {
+                    "Dictionary": {
+                        "description": "A dictionary"
+                    }
+                }
+            },
+            "TelephonyTools": {
+                "description": "Telephony tools, to dial a number, manage PBX, ..."
+            },
+            "Maps": {
+                "description": "Sofware for viewing maps, navigation, mapping, GPS"
+            },
+            "Spirituality": {
+                "description": "Religious and spiritual software, theology"
+            },
+            "Archiving": {
+                "description": "A tool to archive/backup data",
+                "categories": {
+                    "Compression": {
+                        "description": "A tool to manage compressed data/archives"
+                    }
+                }
+            },
+            "FileTools": {
+                "description": "A file tool utility"
+            },
+            "Accessibility": {
+                "description": "Accessibility"
+            },
+            "Calculator": {
+                "description": "A calculator"
+            },
+            "Clock": {
+                "description": "A clock application/applet"
+            },
+            "TextEditor": {
+                "description": "A text editor"
+            }
+        }
+    },
+    "Amusement": {
+        "description": "A simple amusement"
+    },
+    "Electronics": {
+        "description": "Electronics software, e.g. a circuit designer"
+    },
+    "Engineering": {
+        "description": "Engineering software, e.g. CAD programs"
+    },
+    "Documentation": {
+        "description": "Help or documentation"
+    },
+    "Adult": {
+        "description": "Application handles adult or explicit material"
+    },
+    "Core": {
+        "description": "Important application, core to the desktop such as a file manager or a help browser"
+    },
+    "GTK": {
+        "description": "Application based on GTK+ libraries",
+        "categories": {
+            "GNOME": {
+                "description": "Application based on GNOME libraries"
+            },
+            "XFCE": {
+                "description": "Application based on XFCE libraries"
+            }
+        }
+    },
+    "Qt": {
+        "description": "Application based on Qt libraries",
+        "categories": {
+            "KDE": {
+                "description": "Application based on KDE libraries"
+            }
+        }
+    },
+    "Motif": {
+        "description": "Application based on Motif libraries"
+    },
+    "Java": {
+        "description": "Application based on Java GUI libraries, such as AWT or Swing"
+    },
+    "ConsoleOnly": {
+        "description": "Application that only works inside a terminal (text-based or command line application)"
+    }
+}
